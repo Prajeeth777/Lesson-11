@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Activity 1</title>
+        <style>
+            #div1{
+                color: chocolate;
+                margin: 0px;
+                padding: 0px;
+            }
+            #div2{
+                color: cadetblue;
+                margin: 20px;
+                padding: 50px;
+                border:2px solid green
+            }
+        </style>
+    </head>
+    <body>
+        <div id="div1">
+            This box is without box model
+        </div>
+        <div id="div2">
+            This box is with box model
+        </div>
+    </body>
+</html>
